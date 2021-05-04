@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+<html>
+   	<head>
+   		<title>Blog.html</title>
+   	</head>
+	
+	<body> 
+		<h1>Blog.html</h1>
+		
+		<h2>First Web Development Assignment, 12 April 2021</h2>
 
-You can use the [editor on GitHub](https://github.com/notval98/hwangmic.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+		<ul>
+			<li>What challenges or troubles did you have compelting this assignment?<br>
+				One of the challenges that I faced when working on this assignment waas getting used to working with <br>
+				git. I spent a short amount of time learning git previously, but I have since forgotten it all. It was <br>
+				challenging relearning how set things up and then stage the files to commit. </li>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+			<li>What did you learn from this assignment? <br>
+				After having completed this assignment, I feel a little more confident when it comes to working with <br>
+				git and then staging files to be committed. I have previously worked with html before so working with <br>
+				it feels familiar. </li>
 
-### Markdown
+			<li>What resources were most helpful in completing this assignment? <br>
+				The recorded video lectures were the most useful to me in this assignment. It was useful having a video <br> 
+				walk me through how to use git and show how to write in html. </li>
+		</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+		
+		<h2>Assignment 2, 26 April 2021</h2>
 
-```markdown
-Syntax highlighted code block
+		<ul>
+			<li>What was challenging about the assignment? <br>
+				The most challenging thing for me this assignment was working on the flexboxes and styling the things <br>
+				inside of them. I was not able to solve many of the problems that I had with the flexboxes unfortunately.<br>
+				I was also having some trouble with getting the navbar search input and button to be on the right side <br>
+				of the viewport, but I was able to solve it by making their postions fixed to the right of the browser. <br>
+				I also had a little bit of trouble making the twit author links styled as well, but I was able to resolve <br>
+				it when I noticed that the author links were styled similarly to the navbar links. They difference was <br>
+				that I did not make the author links have the easing in underline when hovered over by the cursor. I was <br>
+				also having trouble with keeping the twit content inside of their respective boxes when resizing the <br>
+				browser window. I was also having some trouble publishing the assignment to the engineering server. </li>
 
-# Header 1
-## Header 2
-### Header 3
+			<li>What did you learn from the assignemtn? <br>
+				I spent a lot of time relearning some basic css styling from this assignment at first. I vaguely remembered <br>
+				how to do some styling like changing colors, fonts, styling links, cursor hover reaction, and backgrounds. <br>
+				But I spent most of my time trying to learn how to style flexboxes and their contents. </li>
 
-- Bulleted
-- List
+			<li>What kinds of resources were helpful for completing the assignment? <br>
+				I heavily leaned on w3schools and their css tutorials for this asssignment. I also used the recored lectures <br>
+				a lot for getting some instruction when it came to selectors and gaining a better understanding of what I was <br>
+				reading in the website tutorials. I also used a couple youtube tutorials for flexboxes and getting started <br>
+				on the navbar. I used campuswire to publish the assignment to the engineering servers. </li>
 
-1. Numbered
-2. List
+			<li>What are one or two things you had to Google to complete the assignment? <br>
+				I specifically had to search for flexbox tutorials and link styling on Google. Flexboxes because this is <br>
+				the first time that I have worked with them. And styling link and buttons because I was having trouble <br>
+				with styling the twit author name links inside of the flexboxes. I also used campuswire to make a post <br>
+				about how to publish this assignment to the public engineering website because I forgot how to do it. </li>
+		</ul>
 
-**Bold** and _Italic_ and `Code` text
+		<h2>Assignment 3, May 2021</h2>
 
-[Link](url) and ![Image](src)
-```
+		<ul>
+			<li>What was challenging about the assignment? <br>
+				This was my first time writing in javascript so there was a lot of learning that had to be done. </li>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+			<li>What did you learn from the assignment? <br>
+				Since this was my first time working with javascript, everything was new and had to be learned. I found <br>
+				that there were somethings like passing arguments between functions that were similar to things I've done <br>
+				in C++ but the majority of the things that were done specifically with js was new. </li>
 
-### Jekyll Themes
+			<li>What are one or two things that you had to Goggle to complete the assignment? </li>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/notval98/hwangmic.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+		</ul>
+	</body>
+</html>
